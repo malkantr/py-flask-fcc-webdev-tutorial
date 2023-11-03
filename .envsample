@@ -1,0 +1,1 @@
+DB_CONN=mysql+pymysql://root:password@localhost/dbname?charset=utf8mb4

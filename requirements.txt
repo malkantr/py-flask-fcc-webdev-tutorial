@@ -1,0 +1,4 @@
+Flask~=3.0.0
+# Gunicorn
+SQLAlchemy~=1.4.23
+python-dotenv~=1.0.0
